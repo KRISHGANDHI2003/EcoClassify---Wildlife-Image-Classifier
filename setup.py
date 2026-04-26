@@ -18,7 +18,7 @@ __version__ = "0.0.1"
 REPO_NAME = "EcoClassify---Wildlife-Image-Classifier"
 AUTHOR_USER_NAME = "santosh3110"
 SRC_REPO = "ecoclassify"
-AUTHOR_EMAIL = "santoshkumarguntupalli@gmail.com"
+AUTHOR_EMAIL = "krishgandhi22@gmail.com"
 
 setuptools.setup(
     name=SRC_REPO,
